@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Chatting</string>
+    <string name="welcome_to_lapitchatapp">Welcome to LapitChatApp</string>
+    <string name="need_a_new_account">NEED A NEW ACCOUNT</string>
+
+    <string name="email">Email</string>
+    <string name="create_account">CREATE ACCOUNT</string>
+    <string name="password">Password</string>
+    <string name="need_new_account">NEED NEW ACCOUNT</string>
+    <string name="log_out">Log Out</string>
+    <string name="create_a_new_account">Create a New Account</string>
+    <string name="already_have_account">ALREADY HAVE ACCOUNT</string>
+    <string name="login_to_your_account">Login to your Account</string>
+    <string name="login">LOGIN</string>
+    <string name="Password">Password</string>
+    <string name="your_email">Your Email</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="display_name">Display Name</string>
+    <string name="change_image">CHANGE IMAGE</string>
+    <string name="change_status">CHANGE STATUS</string>
+    <string name="default_status">Hi there, I\'m using Chat App</string>
+
+</resources>
